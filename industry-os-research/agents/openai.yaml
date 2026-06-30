@@ -1,0 +1,7 @@
+interface:
+  display_name: "Industry OS Research"
+  short_description: "Build living industry research systems"
+  default_prompt: "Use $industry-os-research to研究一个新行业：确认范围后建立行业数据库、竞品数据库、内容生态、知识地图和更新机制。"
+
+policy:
+  allow_implicit_invocation: true
