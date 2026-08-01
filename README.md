@@ -112,3 +112,13 @@ A Codex skill for building a living Industry OS from industry databases, competi
 ## 设计来源
 
 这个 Skill 来自一套「用 Codex 快速了解陌生行业」的方法论蒸馏，核心思想是：不要停留在搜索和阅读，而是把信息源、数据库、知识地图、情报系统和机会发现串成一个长期增长的认知资产。
+
+## 关注公众号
+
+如果这个 Skill 对你有帮助，欢迎关注微信公众号 **虎皮叔叔聊跨境独立站**，获取更多独立站增长、行业研究与 AI 营销实操内容。
+
+<p align="center">
+  <img src="assets/wechat-qr.png" alt="虎皮叔叔聊跨境独立站公众号二维码" width="900">
+</p>
+
+<p align="center">微信扫码关注「虎皮叔叔聊跨境独立站」</p>
