@@ -1,5 +1,7 @@
 # Industry OS Research Skill
 
+[虎皮叔叔 · hupishushu.com](https://hupishushu.com/) · [项目介绍](https://hupishushu.com/projects/industry-os-research-skill/) · [中文使用指南](https://hupishushu.com/skills/industry-os-research/)
+
 `industry-os-research` 是一个面向 Codex 的行业研究 Skill，用来把陌生行业从零散信息整理成可持续更新的 Industry OS。
 
 它不是让 AI 临时写一篇行业分析，而是帮助你建立一套可复用、可更新、可导入 Obsidian 的行业研究系统：行业数据库、竞品数据库、内容生态、知识地图、情报周报和机会地图。
